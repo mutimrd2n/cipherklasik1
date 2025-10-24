@@ -1,0 +1,7 @@
+=== HASIL ENKRIPSI ===
+Caesar (3): FDWZRPHQ
+Vigenere (APEL): KJGTNVRPOCE
+
+=== HASIL DEKRIPSI ===
+Caesar -> CATWOMEN
+Vigenere -> KUCINGNEONA
